@@ -31,18 +31,18 @@
     font-size: 12px;
     font-weight: 400;
 }
-.veera>img{
+.veera{
     margin-top: 25px;
     margin-bottom: 30px;
-    height: 130px;
-    width: 160px;
+    height: 160px;
+    width: 180px;
     align-items: center;
     display: inline-block;
     overflow: hidden;
-    margin:0  auto;
-    transition: 0.5s all ease-in-out;
+    margin: auto;
+    transition: 0.5ms all ease-in-out;
 }
+
 img:hover{
     transform: scale(0.9);
-    
 }
