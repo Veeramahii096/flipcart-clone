@@ -1,4 +1,4 @@
-.product{
+.product1{
     display: flex;
     flex-direction: row;
     margin-top:15px;
@@ -12,26 +12,26 @@
     cursor: pointer;
     
 }
-.product_in{
+.product_in1{
  box-sizing: border-box;
 
     
 }
-.gj{
+.gj1{
     color: #388e3c;
 }
-.jg{
+.jg1{
     color: #212121;
     font-size: 15px;
     font-weight: 600;
    
 }
-.vj{
+.vj1{
     color: #aaa;
     font-size: 12px;
     font-weight: 400;
 }
-.veera{
+.veera1{
   
     width: 150px;
     height: 140px;
@@ -50,47 +50,3 @@
 img:hover{
     transform: scale(0.9);
 }
-._2CIhCB>h2{
-    font-size: 27px;
-    text-align: center;
-    font-weight: 200;
-    font-family: Arial, Helvetica, sans-serif;
-    align-items: center;
-    justify-content: center; 
-    height: 60px;
-   
-
-}
-._2CIhCB{
-   
-    
-    margin-left: -10px;
-    background-color: #fbfbfb;
-    
-    width: 240px;
-    margin-top: -150px;
-}
-button{
-    color: #fafafa;
-    background-color: #2874f0;
-    width: 40%;
-    height: 40px;
-    border-radius: 5px;
-    border: none;
-    margin-left: 70px;
-    
-}
-.image_1{
-    
-    margin-bottom: -156px;
-    margin-left: -15px;
-    
-}
-.Product__in{
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      display: block;
-    
-      
-    }

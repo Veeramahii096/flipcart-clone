@@ -11,8 +11,9 @@ function App() {
       <Header />
       <Navigation />
       <Home />
-      <Product/>
       <Product2/>
+      <Product/>
+      
       
     </div>
   );
