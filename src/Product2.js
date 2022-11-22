@@ -5,7 +5,7 @@ import'./Product2.css'
 function Product2(props) {
   return (
     <div className='product1'>
-      <div class="_2CIhCB"><h2 class="_2cAig-">Beauty,Food,Toys &amp; more</h2><div class="_30kJiF"><a class="_2KpZ6l _3dESVI" ><button>VIEW ALL</button></a><img className='image_1'  src='https://rukminim1.flixcart.com/fk-p-flap/278/278/image/b84f1c22cce1a6a3.jpg?q=90'></img></div></div>
+      <div class="_2CIhCB"><h2 class="_2cAig-">Beauty,Food,Toys &amp; more</h2><div class="_30kJiF"><a class="_2KpZ6l _3dESVI" ><button className='btn'>VIEW ALL</button></a><img className='image_1'  src='https://rukminim1.flixcart.com/fk-p-flap/278/278/image/b84f1c22cce1a6a3.jpg?q=90'></img></div></div>
       <div className='Product_in1'>
       <div>  <img className='veera1' src="https://rukminim1.flixcart.com/image/200/200/k186fm80/bat/9/f/n/1000-1200-short-handle-endorsed-for-light-hard-tennis-ball-with-original-imafkuuyxrrphkbr.jpeg?q=70" /></div>
       <div className='Product__in'><div><p className='jg1'>Cricket</p></div> 

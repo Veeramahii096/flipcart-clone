@@ -16,6 +16,7 @@ function Home() {
     { url: "https://m.media-amazon.com/images/I/61nhlTOivrL._SX3000_.jpg" },
   ];
   return (
+    
     <div className="Home">
       <div className="home__container">
         <div className="slider">
@@ -30,6 +31,7 @@ function Home() {
         </div>
       </div>
     </div>
+
 
 
   );

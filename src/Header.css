@@ -40,11 +40,12 @@
     border: none;
     outline: none;
     width:9vw;
-    color: #2874f0;
+    background-color: #fafafa;
+    color:#2874f0 ;
     font-weight:bold;
     font-size: 15px;
     cursor: pointer;
-    padding: 7px;
+    padding: 7px;margin-left: 20px;
 
 }
 .header_fourth{

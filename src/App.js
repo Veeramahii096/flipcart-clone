@@ -1,21 +1,36 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Header";
-import Home from "./Home";
-import Navigation from "./Navigation";
-import Product from "./Product";
-import Product2 from "./Product2";
+
+import {BrowserRouter as Router,
+  Routes,Route}
+from 'react-router-dom';
+import Home2 from "./Home2";
+import Login from "./Login";
 function App() {
   return (
+    <Router>
     <div className="App">
       <Header />
-      <Navigation />
-      <Home />
-      <Product2/>
-      <Product/>
+      <Routes>
+      
+      <Route path='/'  element={<Home2/>}>
+        
+        
+        </Route>
+        <Route path='/login'  element={<Login/>}>
+        
+        
+        </Route>
+
+
+      </Routes>
+      
+      
       
       
     </div>
+    </Router>
   );
 }
 

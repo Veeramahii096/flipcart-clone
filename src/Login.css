@@ -1,0 +1,145 @@
+.Log1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+
+
+}
+.Log1_inner{
+    width: 700px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fafafa;
+    
+
+}
+.L2{
+display:inline-block;
+margin-bottom: 50px;
+
+
+}
+.inner_L2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    align-items: center;
+    
+}
+.L1{
+    display: inline-block;
+    margin-bottom: 250px;
+    margin-top: 30px;
+    
+   
+    
+    
+}
+
+.L1_Inner{
+    background-color:#2874f0 ;
+    height: 100%;
+    width: 45%;
+    
+
+}
+.inputs1{
+    margin-left: 20px;
+    
+    text-decoration-line: underline;
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 10px 10px 10px 10px;
+    
+    
+}
+.inputs{
+  
+    
+    text-decoration-line: underline;
+    width: 85%;
+    margin-bottom: 20px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 80px;
+    
+    
+}
+
+.OTP{
+    display: inline-block;
+    margin-top: 30px;
+    width: 100%;
+    
+}
+.OP{
+   margin-left: 160px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.otp{
+    padding: 10px 10px 10px 10px;
+    width: 90%;
+    background-color: gray !important;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: 700;
+    box-shadow: 10px;
+    margin-left: 20px;
+    
+    
+}
+.otp1{
+    padding: 10px 10px 10px 10px;
+    width: 90%;
+    background-color: #fb641b !important;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: 700;
+    box-shadow: 10px;
+    margin-left: 20px;
+}
+.inner_L3{
+    font-size:  13px;
+    color: lightslategrey;
+    margin-left: 20px;
+}
+.inner_L4{
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 70px ;
+    color: #2874f0;
+    font-weight: 700px;
+    
+}
+.ack{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.L1_t2{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fafafa;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+.L1_t1{
+   font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(186, 203, 219);
+    margin-left: 20px;
+    
+}

@@ -70,7 +70,7 @@ img:hover{
     width: 240px;
     margin-top: -150px;
 }
-button{
+.btn{
     color: #fafafa;
     background-color: #2874f0;
     width: 40%;

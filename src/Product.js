@@ -5,7 +5,7 @@ import './Product.css'
 function Product(props) {
   return (
     <div className='product'>
-      <div class="_2CIhCB"><h2 class="_2cAig-">Best of Electronics</h2><div class="_30kJiF"><a class="_2KpZ6l _3dESVI" ><button>VIEW ALL</button></a><img className='image_1' src='https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90'/></div></div>
+      <div class="_2CIhCB"><h2 class="_2cAig-">Best of Electronics</h2><div class="_30kJiF"><a class="_2KpZ6l _3dESVI" ><button className='btn '>VIEW ALL</button></a><img className='image_1' src='https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90'/></div></div>
       <div className='Product_in'>
       <div>  <img className='veera' src="https://rukminim1.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70" /></div>
       <div className='Product__in'><div><p className='jg'>Printerd</p></div> 
